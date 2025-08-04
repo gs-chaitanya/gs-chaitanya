@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Chaitanya 👋
 
-<!--
-**gs-chaitanya/gs-chaitanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics & Communication Engineering undergrad at IIT (BHU) Varanasi with a passion for embedded systems, digital design, and machine learning.
 
-Here are some ideas to get you started:
+- **Currently:** Contributing to the OpenROAD project as a Google Summer of Code 2025 intern.
+- **Experience Highlights:**
+  - **Jaguar Land Rover** | *Embedded Systems Intern* - Designed a secure bootloader with AES decryption.
+  - **RISC-V @ Linux Foundation** | *Mentee* - Developed a Hardware Abstraction Layer for SoftPosit-cpp. [Link](https://github.com/Posit-Foundation/soft-posit-cpp)
+  - **Google Summer of Code '24** | *Intern* - Contributed to the Apertium machine translation platform. [Link](https://github.com/gs-chaitanya/retratosv2)
+  - **Connect with me:** [**Email**](mailto:gseshasai.chaitanya.cd.ece22@iitbhu.ac.in) or [**LinkedIn**](https://linkedin.com/in/your-linkedin-url). ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Posit-Foundation/soft-posit-cpp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Posit-Foundation&repo=soft-posit-cpp&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/gs-chaitanya/retratosv2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-chaitanya&repo=rettratosv2&theme=tokyonight" />
+  </a>
+
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,bash,git,linux,embedded,tensorflow,pytorch,docker" />
+  </a>
+</p>
+
+---
