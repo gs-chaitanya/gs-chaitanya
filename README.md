@@ -9,22 +9,9 @@ I'm an Electronics & Communication Engineering undergrad at IIT (BHU) Varanasi w
   - **Google Summer of Code '24** | *Intern* - Contributed to the Apertium machine translation platform. [Link](https://github.com/gs-chaitanya/retratosv2)
   - **Connect with me:** [**Email**](mailto:gseshasai.chaitanya.cd.ece22@iitbhu.ac.in) or [**LinkedIn**](https://linkedin.com/in/your-linkedin-url). ---
 
-### Featured Projects
-
-<p align="center">
-<a href="https://github.com/Posit-Foundation/soft-posit-cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Posit-Foundation&repo=soft-posit-cpp&theme=tokyonight&description_lines_count=1" />
-</a>
-<a href="https://github.com/gs-chaitanya/retratosv2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-chaitanya&repo=retratosv2&theme=tokyonight&description_lines_count=1" />
-</a>
-
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,git,linux,tensorflow,docker" />
   </a>
 </p>
-
----
