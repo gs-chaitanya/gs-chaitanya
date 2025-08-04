@@ -16,7 +16,7 @@ I'm an Electronics & Communication Engineering undergrad at IIT (BHU) Varanasi w
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Posit-Foundation&repo=soft-posit-cpp&theme=tokyonight" />
   </a>
   <a href="https://github.com/gs-chaitanya/retratosv2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-chaitanya&repo=rettratosv2&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-chaitanya&repo=retratosv2&theme=tokyonight" />
   </a>
 
 </p>
