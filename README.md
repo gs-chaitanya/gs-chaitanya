@@ -13,10 +13,10 @@ I'm an Electronics & Communication Engineering undergrad at IIT (BHU) Varanasi w
 
 <p align="center">
 <a href="https://github.com/Posit-Foundation/soft-posit-cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Posit-Foundation&repo=soft-posit-cpp&theme=tokyonight&hide_description=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Posit-Foundation&repo=soft-posit-cpp&theme=tokyonight&description_lines_count=1" />
 </a>
 <a href="https://github.com/gs-chaitanya/retratosv2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-chaitanya&repo=retratosv2&theme=tokyonight&hide_description=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-chaitanya&repo=retratosv2&theme=tokyonight&description_lines_count=1" />
 </a>
 
 </p>
