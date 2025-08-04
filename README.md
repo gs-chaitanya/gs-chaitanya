@@ -12,18 +12,18 @@ I'm an Electronics & Communication Engineering undergrad at IIT (BHU) Varanasi w
 ### Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Posit-Foundation/soft-posit-cpp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Posit-Foundation&repo=soft-posit-cpp&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/gs-chaitanya/retratosv2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-chaitanya&repo=retratosv2&theme=tokyonight" />
-  </a>
+<a href="https://github.com/Posit-Foundation/soft-posit-cpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Posit-Foundation&repo=soft-posit-cpp&theme=tokyonight&hide_description=true" />
+</a>
+<a href="https://github.com/gs-chaitanya/retratosv2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-chaitanya&repo=retratosv2&theme=tokyonight&hide_description=true" />
+</a>
 
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,bash,git,linux,embedded,tensorflow,pytorch,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,git,linux,tensorflow,docker" />
   </a>
 </p>
 
